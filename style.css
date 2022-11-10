@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Inspiration&family=Poppins:wght@300;400;600&display=swap');
+*{margin: 0;padding: 0;box-sizing: border-box;}
+.mainbody{width: 100%;height: 100vh;background:linear-gradient(to bottom,rgba(0, 0, 0, 0.5) 100%, white), url(./pexels-rakicevic-nenad-769525.jpg);background-size: cover;font-family: 'Poppins', sans-serif;display: flex;justify-content: center;align-items: center;flex-direction: column;color: white;}
+.mainbody h4{letter-spacing: 3px;padding: 20px;}
+.mainbody h1{font-family: 'Inspiration', cursive;font-size: 120px;}.countdown{display: flex;font-size: 20px; font-size: 23px; }
+.countdown div{margin: 20px 25px;}
+.downtags{display: flex;justify-content: center;align-items: center; width: 50%;height: 50px;display: flex;font-size: 13px;margin-right: 15px;}
+.downtags div{margin: -40px 0 0 35px;}
